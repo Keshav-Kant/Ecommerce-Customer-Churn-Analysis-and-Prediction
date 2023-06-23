@@ -3,7 +3,7 @@ Churn prediction is a crucial task for companies as it involves identifying cust
 
 **Table of Contents**
 
-- [Main Heading](#main-heading)
+- [Exploratory Data Analysis](#main-heading)
   - [Subheading 1](#subheading-1)
     - [Sub-subheading 1.1](#sub-subheading-1.1)
   - [Subheading 2](#subheading-2)
